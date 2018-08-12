@@ -21,3 +21,5 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ---
 ## Research Papers
+* [Automatic Identification System
+ (AIS): A Human Factors Approach ](https://www.researchgate.net/profile/Abbas_Harati_Mokhtari/publication/254062770_Automatic_Identification_System_AIS_A_Human_Factors_Approach/links/552cdb8e0cf2e089a3acf9a7/Automatic-Identification-System-AIS-A-Human-Factors-Approach.pdf)
