@@ -21,5 +21,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ---
 ## Research Papers
-* [Automatic Identification System
- (AIS): A Human Factors Approach ](https://www.researchgate.net/profile/Abbas_Harati_Mokhtari/publication/254062770_Automatic_Identification_System_AIS_A_Human_Factors_Approach/links/552cdb8e0cf2e089a3acf9a7/Automatic-Identification-System-AIS-A-Human-Factors-Approach.pdf)
+* [Automatic Identification System(AIS): A Human Factors Approach (2007)](https://www.researchgate.net/profile/Abbas_Harati_Mokhtari/publication/254062770_Automatic_Identification_System_AIS_A_Human_Factors_Approach/links/552cdb8e0cf2e089a3acf9a7/Automatic-Identification-System-AIS-A-Human-Factors-Approach.pdf)
+ * [Marine Ship Automatic Identification System (AIS) for Enhanced Coastal Security Capabilities: An Oil Spill Tracking Application (2007)](http://www.dtic.mil/dtic/tr/fulltext/u2/a518461.pdf)
+ * [A Security Evaluation of AIS Automated Identification System (2014)](http://www.madlab.it/papers/ais_acsac14.pdf)
+ * [Conservation science and policy applications of the marine vessel Automatic Identification System (AIS)—a review (2016)](https://www.researchgate.net/profile/Martin_Robards/publication/291333590_Conservation_science_and_policy_applications_of_the_marine_vessel_Automatic_Identification_System_AIS-A_review/links/569fdc5008ae21a564271eab.pdf)
+ * [Vessel Pattern Knowledge Discovery from AIS Data: A Framework for Anomaly Detection and Route Prediction (2013)](http://www.mdpi.com/1099-4300/15/6/2218/htm)
