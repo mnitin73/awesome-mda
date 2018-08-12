@@ -4,3 +4,4 @@ A curated list of awesome research papers, software and resources in the field o
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * Awesome MDA
+  * Research Papers
