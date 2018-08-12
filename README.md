@@ -5,9 +5,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * Awesome MDA
  * Technology
-  * Automatic Identification System (AIS)
-  * Radar
-  * Satellite Imagery
+   * Automatic Identification System (AIS)
+   * Radar
+   * Satellite Imagery
  * Research Papers
 
 ---
