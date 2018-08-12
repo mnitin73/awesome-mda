@@ -37,7 +37,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   * [Comprehensive Analysis of Automatic Identification System (AIS) Data in Regard to Vessel Movement Prediction](https://www.cambridge.org/core/journals/journal-of-navigation/article/comprehensive-analysis-of-automatic-identification-system-ais-data-in-regard-to-vessel-movement-prediction/95E9218CA2796FEF05A216E4F2376B9D)
    * [Influence of external conditions and vessel encounters on vessel behavior in ports and waterways using Automatic Identification System data - **_Abtract Only_**](https://www.sciencedirect.com/science/article/pii/S0029801816306138)
  ### 2017
-    * [Data Reduction Techniques applied on Automatic Identification System Data](http://gav.uop.gr/papers/IfrimIugaIKC2017.pdf)
+   * [Data Reduction Techniques applied on Automatic Identification System Data](http://gav.uop.gr/papers/IfrimIugaIKC2017.pdf)
  ### 2018 
    * [Automatic Identification System-Based Approach for Assessing the Near-Miss Collision Risk Dynamics of Ships in Ports](https://www.researchgate.net/profile/Zhixiang_Fang/publication/324901008_Automatic_Identification_System-Based_Approach_for_Assessing_the_Near-Miss_Collision_Risk_Dynamics_of_Ships_in_Ports/links/5af06f1daca272bf42519f2b/Automatic-Identification-System-Based-Approach-for-Assessing-the-Near-Miss-Collision-Risk-Dynamics-of-Ships-in-Ports.pdf)
    * [An Automatic Identification System (AIS) Database for Maritime Trajectory Prediction and Data Mining](https://arxiv.org/pdf/1607.03306.pdf)
