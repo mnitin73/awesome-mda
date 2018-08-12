@@ -21,6 +21,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ---
 ## Research Papers
+### 2005
+ * [Use of the Automatic Identification System (AIS) for maritime domain awareness (MDA) - **_(Abtract Only)_**](https://ieeexplore.ieee.org/abstract/document/1639983/)
 ### 2007
  * [Automatic Identification System(AIS): A Human Factors Approach)](https://www.researchgate.net/profile/Abbas_Harati_Mokhtari/publication/254062770_Automatic_Identification_System_AIS_A_Human_Factors_Approach/links/552cdb8e0cf2e089a3acf9a7/Automatic-Identification-System-AIS-A-Human-Factors-Approach.pdf)
  * [Marine Ship Automatic Identification System (AIS) for Enhanced Coastal Security Capabilities: An Oil Spill Tracking Application](http://www.dtic.mil/dtic/tr/fulltext/u2/a518461.pdf)
