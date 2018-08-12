@@ -1,2 +1,2 @@
 # awesome-mda
-A curated list of awesome Maritime Data Analysis resources
+A curated list of awesome research papers, software and resources in the field of Maritime Domain Awareness.
